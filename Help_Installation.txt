@@ -1,0 +1,16 @@
+Wie installiere und nutze ich ein Plugin der Desktop App?
+
+(1) ReadMe-Datei zum Plugin lesen.
+
+(2) Sicherstellen, dass die neueste Version der Desktop App installiert ist (siehe dazu https://drive.google.com/drive/folders/1kkUhI6abarUddNXiGJA7K9fmk9w-iQQq).
+
+(3) Plugin-Datei in das Unterverzeichnis Plugins der Desktop App kopieren.
+
+(4) Desktop App starten und im Plugin-Tab die Checkbox in der Zeile zum installierten Plugin ankreuzen.
+
+(5) Wichtig: Desktop App schließen und erneut starten.
+
+(6) Installiertes Plugin selektieren, den Refresh-Button oben rechts neben dem Mähernamen anklicken, erforderliche Eingaben zum Plugin tätigen und die Ausführung der Funktion des Plugins über den Doit-Button starten.
+
+
+Sollte das installierte Plugin in der Plugin-Liste nicht aufgeführt sein oder sollte die aufgerufene Funktion nicht oder fehlerhaft ausgeführt werden, bitte über den TRACE-Button im Login-Flyout nach Fehlermeldungen Ausschau halten. Diese Fehlermeldungen dann kopieren (ohne sonstige persönliche Daten der Art Topic, Oauth token, User info, Product items, Status, Certificate) und im Roboter-Forum im Thread zur Desktop App posten: https://www.roboter-forum.com/index.php?thread/22795/
